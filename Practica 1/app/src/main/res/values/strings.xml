@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">primeraAplicacion</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">Material is the metaphor...\n\n</string> <!-- Truncado para claridad -->
+
+    <!-- Pablo Motos -->
+    <string name="image_desc">Descripción de la imagen</string>
+    <string name="person_title1">PABLO MOTOS</string>
+    <string name="person_summary1">Pablo Motos Burgos (Requena, Valencia, 31 de agosto de 1965) es un presentador de televisión, locutor de radio, humorista y empresario español. Desde 2006 es el presentador y productor del programa de entrevistas El hormiguero.</string>
+    <string name="wiki_button">Abrir en Wikipedia</string>
+
+    <!-- Rafa Nadal -->
+    <string name="image_desc_nadal">Imagen de Rafa Nadal</string>
+    <string name="person_title2">RAFA NADAL</string>
+    <string name="person_summary2">Rafael Nadal Parera (Manacor, 3 de junio de 1986) es un tenista profesional español, considerado uno de los mejores tenistas de todos los tiempos, conocido por su excepcional rendimiento en tierra batida.
+    </string>
+
+    <!-- El Dudu -->
+    <string name="image_desc_dudu">Imagen de El Dudu</string>
+    <string name="person_title3">EL DUDU</string>
+    <string name="person_summary3">El Dudu es un personaje popular en España, conocido por su humor y su capacidad para entretener a la audiencia.</string>
+
+    <!-- Iker Jiménez -->
+    <string name="image_desc_iker">Imagen de Iker Jiménez</string>
+    <string name="person_title4">IKER JIMÉNEZ</string>
+    <string name="person_summary4">Iker Jiménez (Cuenca, 10 de enero de 1973) es un periodista, escritor y presentador de televisión español, conocido por su trabajo en programas de misterio y fenómenos paranormales, como Cuarto Milenio.</string>
+
+    <!-- Descripción del botón flotante -->
+    <string name="fab_desc">Agregar una nueva tarjeta</string>
+
+    <!-- Configuración -->
+    <string name="action_settings">Configuración</string>
+</resources>
