@@ -73,7 +73,7 @@ class ScrollingActivity : AppCompatActivity() {
             startActivity(intent)
         }
         img4 = findViewById(R.id.imageView4)
-        val imageIker = "https://s03.s3c.es/imag/_v0/1200x655/a/4/a/iker-jimenez-regreso.jpg"
+        val imageIker = "https://s03.s3c.es/imag/_v0/1200x655/2/d/d/iker-jiemenz-cuarto-milenio.jpg"
         Glide.with(this)
             .load(imageIker)
             .into(img4)
